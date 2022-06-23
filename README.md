@@ -1,3 +1,11 @@
+
+# Hi, I'm ᦓꪖ᥅ᛕꪖꪖ᥅! 👋
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://imsarkar.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/hraj0105)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imysarkaar)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimsarkar&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=imsarkar&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=ᦓꪖ᥅ᛕꪖꪖ᥅+Github+Stats)](https://github.com/DesiNobita)
